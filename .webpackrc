@@ -16,7 +16,7 @@
   "html": {
     "template": "./src/index.ejs"
   },
-  "publicPath": "/cpay-msp-demo/dist/",
+  "publicPath": "",
   "disableDynamicImport": true,
   "hash": true
 }
